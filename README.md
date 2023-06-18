@@ -1,5 +1,6 @@
 # Agência Bancária
-Esse sistema foi criado para fins educacionais e de evolução no aprendizado. Foram utilizados tudo que foi aprendido em sala de aula para que o sistema fluíce perfeitamente. <br>
+Esse sistema foi criado para fins educacionais e de evolução no aprendizado. Foram utilizados tudo que foi aprendido em sala de aula para que o sistema fluísse perfeitamente. <br>
+Foi utilizado somente JavaScript nesse projeto.<br>
 #### Meu repositório de algoritmos (JavaScript): <a href="https://github.com/lucasgianine/algoritmos-1ADS">Algoritmos 1º semestre ADS</a>
 
 ## Versão
