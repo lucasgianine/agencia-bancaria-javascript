@@ -3,9 +3,10 @@ Esse sistema foi criado para fins educacionais e de evolução no aprendizado. F
 Foi utilizado somente JavaScript nesse projeto.<br>
 #### Meu repositório de algoritmos (JavaScript): <a href="https://github.com/lucasgianine/algoritmos-1ADS">Algoritmos 1º semestre ADS</a>
 
-## Versão
+## Versão 1.1.0
 Esse projeto está na sua primeira versão, pode ocorrer alguns pequenos bugs que já estão sendo resolvidos. <br>
-Essa primeira versão traz o básico de uma agência bancária, <b>criação de conta, depósito, saque e transferência bancária</b>.
+O que essa versão trás de novo?
+Há agora um sistema de investimento, você poderá investir em ações de 5 (cinco) novas empresas, o lucro ainda não foi desenvolvido, mas injetar dinheiro em uma ação e visualizar quantas e quais ações você comprou já é possível.
 
 ## Modo de usar
 #### 1. Após clonar o repositório em sua máquina, abra o arquivo <a href="console.html">console.html</a> em seu navegador.
@@ -16,8 +17,9 @@ Essa primeira versão traz o básico de uma agência bancária, <b>criação de 
 ###### 4.2. Realizar depósito
 ###### 4.3. Realizar saque
 ###### 4.4. Realizar transferência
-###### 4.5. Listar contas
-###### 4.6. Sair
+###### 4.5. Bolsa de Valores (NOVO!)
+###### 4.6. Listar contas
+###### 4.7. Sair
 #### 5. Escolha qualquer opção que irá funcionar, lembre-se que há estruturas de verificações, se tentar depositar dinheiro sem houver uma conta, printará um erro no seu console.
 
 ![exemplo](https://github.com/lucasgianine/agenciaBancariaJS/assets/125743142/ed701702-bdfa-4d24-ad9d-91f2402d6eba)
